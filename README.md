@@ -13,8 +13,19 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 (link at bottom of the page).
 -->
 <!-- @joggr:warning:end -->
-# releases
-Public repository for documenting releases to the Joggr platform.
+# 🏃Joggr Platform Releases
+
+At [Joggr](https://joggr.io), we believe in building and releasing product in a transparent manner. It's super important for us that anyone can visit this repository and get a sneak peak at what we are building + what we've already released.
+
+[View Releases](/releases)
+
+## Why in Github?
+
+We are a documentation platform built for engineers and Github is where quite a few engineers spend their days. Joggr also integrates with Github and we actually used our platform to build this file you are reading + all of our release notes (check them out [here](/releases)).
+
+## Interested in signing up?
+
+You can shoot us an email at <hello-founders@joggr.io> and we'd be happy to chat! You can also visit our [website](https://joggr.io) and join our waitlist (pro tip: fill out the form and we'll bump you up the list!)
 
 <!-- @joggr:editLink(aae78858-f749-426c-9f67-7cf401754791):start -->
 ---
