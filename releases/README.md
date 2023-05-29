@@ -15,6 +15,7 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 <!-- @joggr:warning:end -->
 # 🏃Joggr Platform Releases
 
+*   [May 29, 2023](2023-05-29.md)
 *   [April 26, 2023](2023-04-26.md)
 *   [April 14, 2023](2023-04-14.md)
 *   [April 03, 2023](2023-04-03.md)
