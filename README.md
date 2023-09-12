@@ -13,15 +13,15 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 (link at bottom of the page).
 -->
 <!-- @joggr:warning:end -->
-# 🏃Joggr Platform Releases
+# 🏃Joggr Platform Changelog
 
 At [Joggr](https://joggr.io), we believe in building and releasing product in a transparent manner. It's super important for us that anyone can visit this repository and get a sneak peak at what we are building + what we've already released.
 
 [View Releases](/releases)
 
-## Why in Github?
+## Why in GitHub?
 
-We are a documentation platform built for engineers and Github is where quite a few engineers spend their days. Joggr also integrates with Github and we actually used our platform to build this file you are reading + all of our release notes (check them out [here](/releases)).
+We are a documentation platform built for engineers and GitHub is where quite a few engineers spend their days. Joggr also integrates with GitHub and we actually used our platform to build this file you are reading + all of our release notes (check them out [here](/releases)).
 
 ## Interested in signing up?
 
