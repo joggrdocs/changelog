@@ -19,14 +19,22 @@ Currently being built out.
 
 ***
 
+## Title Emojis
+
+| Emoji | Shortcode     | Type             |
+| ----- | ------------- | ---------------- |
+| 🚀    | `:rocket:`    | New Feature      |
+| 🛑    | `:stop_sign:` | Breaking Changes |
+| ✨     | `:sparkles:`  | AI Feature       |
+
 ## Changelog Emojis
 
-| Emoji | Shortcode  | Type        |
-| ----- | ---------- | ----------- |
-| 🚀    | `:rocket:` | Enhancement |
-| 🐛    | `:bug:`    | Bugfix      |
-| ⚙     | `:gear:`   | Chore       |
-| 🛡    | `:shield:` | Security    |
+| Emoji | Shortcode       | Type        |
+| ----- | --------------- | ----------- |
+| 💚    | `:green_heart:` | Enhancement |
+| 🐛    | `:bug:`         | Bugfix      |
+| ⚙     | `:gear:`        | Chore       |
+| 🛡    | `:shield:`      | Security    |
 
 <!-- @joggr:editLink(712e8aa3-4a3d-41a4-addd-954bec60c237):start -->
 ---
