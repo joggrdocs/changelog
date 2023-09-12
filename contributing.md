@@ -29,12 +29,13 @@ Currently being built out.
 
 ## Changelog Emojis
 
-| Emoji | Shortcode       | Type        |
-| ----- | --------------- | ----------- |
-| 💚    | `:green_heart:` | Enhancement |
-| 🐛    | `:bug:`         | Bugfix      |
-| ⚙     | `:gear:`        | Chore       |
-| 🛡    | `:shield:`      | Security    |
+| Emoji | Shortcode       | Type                                                                                 |
+| ----- | --------------- | ------------------------------------------------------------------------------------ |
+| 💚    | `:green_heart:` | **Enhancement** - A new enhancement to the product                                   |
+| 📚    | `:books:`       | **Micro-improvment** - a small improvement such as a style change or a typing change |
+| 🐛    | `:bug:`         | **Bugfix** - A defect either a Bug or Hot fix                                        |
+| ⚙     | `:gear:`        | **Chore** - operational work (usually won't put in public changelog)                 |
+| 🛡    | `:shield:`      | **Security** - a security fix or improvement                                         |
 
 <!-- @joggr:editLink(712e8aa3-4a3d-41a4-addd-954bec60c237):start -->
 ---
