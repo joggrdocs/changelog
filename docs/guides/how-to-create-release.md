@@ -36,7 +36,6 @@ Currently being built out.
 | 🐛    | `:bug:`         | **Bugfix** - A defect either a Bug or Hot fix                                        |
 | ⚙     | `:gear:`        | **Chore** - operational work (usually won't put in public changelog)                 |
 | 🛡    | `:shield:`      | **Security** - a security fix or improvement                                         |
-
 <!-- @joggr:editLink(712e8aa3-4a3d-41a4-addd-954bec60c237):start -->
 ---
 <a href="https://app.joggr.io/app/documents/712e8aa3-4a3d-41a4-addd-954bec60c237/edit" alt="Edit doc on Joggr">
