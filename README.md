@@ -26,7 +26,6 @@ We are a documentation platform built for engineers and GitHub is where quite a 
 ## Interested in signing up?
 
 You can shoot us an email at <hello-founders@joggr.io> and we'd be happy to chat! You can also visit our [website](https://joggr.io) and join our waitlist (pro tip: fill out the form and we'll bump you up the list!)
-
 <!-- @joggr:editLink(aae78858-f749-426c-9f67-7cf401754791):start -->
 ---
 <a href="https://app.joggr.io/app/documents/aae78858-f749-426c-9f67-7cf401754791/edit" alt="Edit doc on Joggr">
